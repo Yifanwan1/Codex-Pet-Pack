@@ -4,9 +4,11 @@
 
 ## 中文介绍
 
-觉醒大天使是游戏《洛克王国》（Roco Kingdom）中的翼系宠物，也是大天使进阶路线中的觉醒形态。公开资料中将它描述为《洛克王国》的觉醒宠物之一：一阶为“大天使”，二阶为“圣大天使”，三阶形象为“觉醒大天使”。它的代表性视觉特征是巨大的金色羽翼、白金色铠甲、青蓝色水晶冠饰、蓝色宝石与蓝色长剑，整体气质神圣、锋利、强攻感很强。
+觉醒大天使是游戏《洛克王国》（Roco Kingdom）中的翼系宠物，也是大天使进阶路线中的觉醒形态。公开资料中将它描述为《洛克王国》的觉醒宠物之一：一阶为“大天使”，二阶为“圣大天使”，三阶形象为“觉醒大天使”。
 
-这份 Codex 宠物版本把原角色改造成适合桌面宠物显示的小型动画形象：保留金翼、铠甲、蓝色水晶和长剑等核心识别点，同时压缩成更紧凑的 chibi sprite 比例，方便在 Codex 宠物窗口中循环播放。
+它的代表性视觉特征是巨大的金色羽翼、白金色铠甲、青蓝色水晶冠饰、蓝色宝石与蓝色长剑，整体气质神圣、锋利，具有很强的战斗感。这份 Codex 宠物版本把原角色改造成适合桌面宠物显示的小型动画形象，保留核心识别点，同时压缩成更紧凑的 chibi sprite 比例。
+
+标准可用宠物包在这里：[awakened-archangel](../../awakened-archangel/)
 
 资料参考：
 
@@ -15,9 +17,11 @@
 
 ## English Introduction
 
-Awakened Archangel is a Wing-type pet from the game Roco Kingdom. It is the awakened form in the Archangel evolution line: Archangel, Holy Archangel, and finally Awakened Archangel. Public references describe it as one of Roco Kingdom's awakened pets. Its recognizable visual identity includes huge golden wings, white-and-gold armor, cyan crystal ornaments, blue gems, and a blue sword, giving it a sacred, sharp, and aggressive battle style.
+Awakened Archangel is a Wing-type pet from the game Roco Kingdom. It is the awakened form in the Archangel evolution line: Archangel, Holy Archangel, and finally Awakened Archangel.
 
-This Codex pet adaptation turns the original character into a compact desktop-pet sprite. It keeps the golden wings, armor, cyan crystal crest, and sword as the main identity markers, while compressing the design into chibi sprite proportions that can loop cleanly inside the Codex pet runtime.
+Its recognizable visual identity includes huge golden wings, white-and-gold armor, cyan crystal ornaments, blue gems, and a blue sword. This Codex pet adaptation turns the original character into a compact desktop-pet sprite while keeping the most important identity markers readable at small size.
+
+The standard installable pet package is here: [awakened-archangel](../../awakened-archangel/)
 
 References:
 
@@ -58,8 +62,9 @@ References:
 
 - [Character image / 形象图](assets/character.png)
 - [Contact sheet / 动作总览图](assets/contact-sheet.png)
-- [PNG spritesheet](assets/spritesheet.png)
-- [WebP spritesheet](assets/spritesheet.webp)
+- [PNG spritesheet preview](assets/spritesheet.png)
+- [Installable WebP spritesheet](../../awakened-archangel/spritesheet.webp)
+- [pet.json](../../awakened-archangel/pet.json)
 - [Validation report / 验证报告](assets/validation.json)
 
 ## 验证结果 / Validation
