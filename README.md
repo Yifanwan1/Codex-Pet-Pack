@@ -14,6 +14,7 @@
 | 形象 | 宠物 | 标准宠物文件夹 | 来源 | 状态 |
 | --- | --- | --- | --- | --- |
 | <img src="docs/awakened-archangel/assets/character.png" alt="觉醒大天使" width="120"> | [觉醒大天使 / Awakened Archangel](docs/awakened-archangel/README.md) | [awakened-archangel](awakened-archangel/) | 洛克王国 / Roco Kingdom | 已完成 |
+| <img src="docs/shaolin-guagua/assets/character.png" alt="少林呱呱" width="120"> | [少林呱呱 / Shaolin Guagua](docs/shaolin-guagua/README.md) | [shaolin-guagua](shaolin-guagua/) | 洛克王国 / Roco Kingdom | 已完成 |
 
 ## 仓库结构
 
@@ -23,8 +24,18 @@ Codex-Pet-Pack/
   awakened-archangel/
     pet.json
     spritesheet.webp
+  shaolin-guagua/
+    pet.json
+    spritesheet.webp
   docs/
     awakened-archangel/
+      README.md
+      assets/
+        character.png
+        contact-sheet.png
+        spritesheet.png
+        validation.json
+    shaolin-guagua/
       README.md
       assets/
         character.png
@@ -47,6 +58,7 @@ Descriptions, character images, contact sheets, and validation records live unde
 | Image | Pet | Standard Pet Folder | Source | Status |
 | --- | --- | --- | --- | --- |
 | <img src="docs/awakened-archangel/assets/character.png" alt="Awakened Archangel" width="120"> | [Awakened Archangel / 觉醒大天使](docs/awakened-archangel/README.md) | [awakened-archangel](awakened-archangel/) | Roco Kingdom / 洛克王国 | Complete |
+| <img src="docs/shaolin-guagua/assets/character.png" alt="Shaolin Guagua" width="120"> | [Shaolin Guagua / 少林呱呱](docs/shaolin-guagua/README.md) | [shaolin-guagua](shaolin-guagua/) | Roco Kingdom / 洛克王国 | Complete |
 
 ## Repository Structure
 
@@ -56,8 +68,18 @@ Codex-Pet-Pack/
   awakened-archangel/
     pet.json
     spritesheet.webp
+  shaolin-guagua/
+    pet.json
+    spritesheet.webp
   docs/
     awakened-archangel/
+      README.md
+      assets/
+        character.png
+        contact-sheet.png
+        spritesheet.png
+        validation.json
+    shaolin-guagua/
       README.md
       assets/
         character.png
